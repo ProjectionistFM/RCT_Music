@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../RCT_Music_backup"
 		}
 	],
 	"settings": {}
