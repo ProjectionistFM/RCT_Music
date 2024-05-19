@@ -1,0 +1,34 @@
+{
+    "id": "projectionist.music.paris_accordion",
+    "authors": [
+        "projectionist"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "music/a-walk-in-paris-126173.ogg",
+                "name": "A Walk in Paris - Yevhen Onoychenko from Pixabay"
+            },
+            {
+                "source": "music/luna-park-accordion-music-3835.ogg",
+                "name": "Luna Park Accordion Music - Julius H. from Pixabay"
+            },
+            {
+                "source": "music/water-waltz-165_render-209270.ogg",
+                "name": "Village Vibe - William_King from Pixabay"
+            }
+        ]
+    },
+    "images": [
+        {
+            "path": "images/cover.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Paris Accordion style"
+        }
+    }
+}
