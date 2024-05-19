@@ -1,4 +1,4 @@
-# RCT_Music
+# RollerCoaster Tycoon Music
 Custom music pack add-ons for use with OpenRCT2
 
 ## Releases
@@ -10,7 +10,10 @@ Custom music pack add-ons for use with OpenRCT2
 
 
 ## Installation
-Place in OpenRCT2\object folder
-Restart OpenRCT2
-In game, click Cheats menu > Object Selection > Advanced button > Music Tab.
-Place a check next to the music pack you want to be available for your rides.
+1. Place .parkobj files in your OpenRCT2/object folder
+2. Restart OpenRCT2
+3. In game, click Cheats menu > Object Selection > Advanced button > Music Tab.
+4. Place a check next to the music packs you want to be available for your rides.
+
+## Attribution
+Individual music files will not be included in this repository. Music is used in accordance with the [license](https://pixabay.com/service/license-summary/) of their respective composer's chosen distribution platform. A track list accompanies each style should you like to support the composers directly.
