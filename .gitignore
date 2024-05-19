@@ -7,6 +7,7 @@
 *.mp3
 *.ogg
 *.DS_Store
+*.code-workspace
 
 # User-specific files
 *.rsuser
