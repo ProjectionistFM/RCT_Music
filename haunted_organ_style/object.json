@@ -1,0 +1,34 @@
+{
+    "id": "projectionist.music.haunted_organ",
+    "authors": [
+        "projectionist"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "music/Praeludium.ogg",
+                "name": "Praeludium - Johann Pachelbel performed by Gosse Hulzinga (CC) (PD)"
+            },
+            {
+                "source": "music/haunted_organ_style/music/Preambulum.ogg",
+                "name": "Preambulum and Fugue in C minor - Vincent Lubeck performed by Gosse Hulzinga (CC) (PD)"
+            },
+            {
+                "source": "music/Toccata_BWV_565.ogg",
+                "name": "Toccata and Fugue in D minor, BWV 565 - Johann Sebastian Bach performed by Hans Otto (CC) (PD)"
+            }
+        ]
+    },
+    "images": [
+        {
+            "path": "images/cover.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Haunted Organ style"
+        }
+    }
+}
