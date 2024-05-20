@@ -9,19 +9,23 @@
         "tracks": [
             {
                 "source": "music/french-jazz-music-142911.ogg",
-                "name": "French Jazz Music - William_King from Pixabay"
+                "name": "French Jazz Music",
+                "composer": "William_King from Pixabay"
             },
             {
                 "source": "music/french-gypsy-mood-146458.ogg",
-                "name": "French Gypsy Mood - Vitalii Korol from Pixabay"
+                "name": "French Gypsy Mood",
+                "composer": "Vitalii Korol from Pixabay"
             },
             {
                 "source": "music/village-vibe-166811.ogg",
-                "name": "Village Vibe - William_King from Pixabay"
+                "name": "Village Vibe",
+                "composer": "William_King from Pixabay"
             },
             {
                 "source": "music/french-mood-161417.ogg",
-                "name": "French Mood - William_King from Pixabay"
+                "name": "French Mood",
+                "composer": "William_King from Pixabay"
             }
         ]
     },
