@@ -8,7 +8,7 @@ Custom music pack add-ons for use with OpenRCT2
 - [Paris Jazz style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_jazz_style/projectionist.music.parisjazz.parkobj) version 1
 - [Haunted Organ style](https://github.com/ProjectionistFM/RCT_Music/raw/main/haunted_organ_style/projectionist.music.hauntedorgan.parkobj) version 1
 
-test
+test2
 
 ## Installation
 1. Place .parkobj files in your OpenRCT2/object folder
