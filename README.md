@@ -3,7 +3,7 @@ Custom music pack add-ons for use with OpenRCT2
 
 ## Releases
 - [Player Piano style](https://github.com/ProjectionistFM/RCT_Music/raw/main/player_piano_style/projectionist.music.playerpiano.parkobj) version 1
-- [Paris Accordion style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_accordian_style/projectionist.music.parisaccordion.parkobj) version 1
+- [Paris Accordion style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_accordion_style/projectionist.music.parisaccordion.parkobj) version 1
 - [Paris Waltz style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_waltz_style/projectionist.music.pariswaltz.parkobj) version 1
 - [Paris Jazz style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_jazz_style/projectionist.music.parisjazz.parkobj) version 1
 - [Haunted Organ style](https://github.com/ProjectionistFM/RCT_Music/raw/main/haunted_organ_style/projectionist.music.hauntedorgan.parkobj) version 1
