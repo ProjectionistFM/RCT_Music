@@ -10,6 +10,7 @@ Custom music pack add-ons for use with OpenRCT2
 - [Rag Piano style](https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_piano_style/projectionist.music.ragpiano.parkobj)
 - [Rag Strings style](https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_strings_style/projectionist.music.ragstring.parkobj)
 - [Rag Intermezzo style](https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj)
+- [Bossa Nova style](https://github.com/ProjectionistFM/RCT_Music/raw/main/bossa_nova_style/projectionist.music.bossanova.parkobj)
 
 ## Installation
 1. Place .parkobj files in your OpenRCT2/object folder
