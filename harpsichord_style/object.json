@@ -1,0 +1,37 @@
+{
+    "id": "projectionist.music.harpsichord",
+    "authors": [
+        "Projectionist"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "music/Organ_Concerto_BWV_593.ogg",
+                "name": "Organ Concerto in A minor, BWV 593",
+                "composer": "Johann Sebastian Bach performed by Martin Neary (CC)(PD)"
+            },
+            {
+                "source": "music/Fugue_BWV_575.ogg",
+                "name": "Fugue in C minor, BWV 575",
+                "composer": "Johann Sebastian Bach performed by Isolde Ahlgrimm (CC)(PD)"
+            },
+            {
+                "source": "music/file.ogg",
+                "name": "Concerto in G Major, BWV 592",
+                "composer": "Johann Sebastian Bach performed by Martin Neary (CC)(PD)"
+            }
+        ]
+    },
+    "images": [
+        {
+            "path": "images/cover.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Harpsichord style"
+        }
+    }
+}

@@ -2,7 +2,7 @@
 Custom music pack add-ons for use with OpenRCT2
 
 ## Releases
-- ![Player Piano style cover](/player_piano_style/images/cover.png)[Player Piano style](https://github.com/ProjectionistFM/RCT_Music/raw/main/player_piano_style/projectionist.music.playerpiano.parkobj)
+- [Player Piano style][1]
 - [Paris Accordion style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_accordion_style/projectionist.music.parisaccordion.parkobj)
 - [Paris Waltz style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_waltz_style/projectionist.music.pariswaltz.parkobj)
 - [Paris Jazz style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_jazz_style/projectionist.music.parisjazz.parkobj)
@@ -12,7 +12,18 @@ Custom music pack add-ons for use with OpenRCT2
 - [Rag Intermezzo style](https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj)
 - [Bossa Nova style](https://github.com/ProjectionistFM/RCT_Music/raw/main/bossa_nova_style/projectionist.music.bossanova.parkobj)
 
-![Bossa Nova style cover](/player_piano_style/images/cover.png)
+## Sample Tracks
+[![Player Piano style cover](/player_piano_style/images/cover.png)][1]
+![Paris Accordion style cover](/paris_accordion_style/images/cover.png)
+![Paris Waltz style cover](/paris_waltz_style/images/cover.png)
+![Paris Jazz style cover](/paris_jazz_style/images/cover.png)
+![Haunted Organ style cover](/haunted_organ_style/images/cover.png)
+![Rag Piano style cover](/rag_piano_style/images/cover.png)
+![Rag Strings style cover](/rag_strings_style/images/cover.png)
+![Rag Intermezzo style cover](/rag_intermezzo_style/images/cover.png)
+![Bossa Nova style cover](/bossa_nova_style/images/cover.png)
+
+[1]:https://github.com/ProjectionistFM/RCT_Music/raw/main/player_piano_style/projectionist.music.playerpiano.parkobj
 
 ## Installation
 1. Place .parkobj files in your OpenRCT2/object folder
