@@ -1,5 +1,5 @@
 # RollerCoaster Tycoon Music
-Custom music pack add-ons for use with OpenRCT2
+Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple music tracks that compliment each other and have a consistency of sound. For a complete track list, view the pack in OpenRCT2, or take a look at the attribution file in each style's folder in this repo.
 
 ## Releases
 | Music style              | Download            | Link to sample track |
