@@ -2,18 +2,18 @@
 Custom music pack add-ons for use with OpenRCT2
 
 ## Releases
-- [Player Piano style][1]
-- [Paris Accordion style][2]
-- [Paris Waltz style][3]
-- [Paris Jazz style][4]
-- [Haunted Organ style][5]
-- [Rag Piano style][6]
-- [Rag Strings style][7]
-- [Rag Intermezzo style][8]
-- [Bossa Nova style][9]
+- [Player Piano style][1] [play sample](https://pixabay.com/music/vintage-vintage-movie-116223/)
+- [Paris Accordion style][2] [play sample](https://pixabay.com/music/acoustic-group-a-walk-in-paris-126173/)
+- [Paris Waltz style][3] [play sample](https://pixabay.com/music/folk-french-waltz-musette-202799/)
+- [Paris Jazz style][4] [play sample](https://pixabay.com/music/acoustic-group-french-jazz-music-142911/)
+- [Haunted Organ style][5] [play sample](https://musopen.org/music/31358-preambulum-and-fugue-in-c-minor/)
+- [Rag Piano style][6] [play sample](https://pixabay.com/music/classical-piano-chicken-tango-1914-e-j-stark-190359/)
+- [Rag Strings style][7] [play sample](https://pixabay.com/music/classical-string-quartet-sunflower-tickle-percy-wenrich-1908-arranged-for-strings-188145/)
+- [Rag Intermezzo style][8] [play sample](https://pixabay.com/music/classical-string-quartet-lily-of-the-prairie-kerry-mills-1909-arranged-for-strings-188147/)
+- [Bossa Nova style][9] [play sample](https://pixabay.com/music/smooth-jazz-piano-jazz-bossa-nova-cozy-cafe-coffee-shop-music-203916/)
 
 ## Cover Art Gallery
-![Player Piano style cover](/player_piano_style/images/cover.png)]
+![Player Piano style cover](/player_piano_style/images/cover.png)
 ![Paris Accordion style cover](/paris_accordion_style/images/cover.png)
 ![Paris Waltz style cover](/paris_waltz_style/images/cover.png)
 ![Paris Jazz style cover](/paris_jazz_style/images/cover.png)
