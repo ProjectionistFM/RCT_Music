@@ -2,7 +2,7 @@
 Custom music pack add-ons for use with OpenRCT2
 
 ## Releases
-- [Player Piano style](https://github.com/ProjectionistFM/RCT_Music/raw/main/player_piano_style/projectionist.music.playerpiano.parkobj)
+- ![Player Piano style cover](/player_piano_style/images/cover.png)[Player Piano style](https://github.com/ProjectionistFM/RCT_Music/raw/main/player_piano_style/projectionist.music.playerpiano.parkobj)
 - [Paris Accordion style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_accordion_style/projectionist.music.parisaccordion.parkobj)
 - [Paris Waltz style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_waltz_style/projectionist.music.pariswaltz.parkobj)
 - [Paris Jazz style](https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_jazz_style/projectionist.music.parisjazz.parkobj)
@@ -11,6 +11,8 @@ Custom music pack add-ons for use with OpenRCT2
 - [Rag Strings style](https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_strings_style/projectionist.music.ragstring.parkobj)
 - [Rag Intermezzo style](https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj)
 - [Bossa Nova style](https://github.com/ProjectionistFM/RCT_Music/raw/main/bossa_nova_style/projectionist.music.bossanova.parkobj)
+
+![Bossa Nova style cover](/player_piano_style/images/cover.png)
 
 ## Installation
 1. Place .parkobj files in your OpenRCT2/object folder
