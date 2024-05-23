@@ -14,29 +14,35 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 | Rag Intermezzo style     | [download style][8] | [play sample](https://pixabay.com/music/classical-string-quartet-lily-of-the-prairie-kerry-mills-1909-arranged-for-strings-188147/)|
 | Bossa Nova style         | [download style][9] | [play sample](https://pixabay.com/music/smooth-jazz-piano-jazz-bossa-nova-cozy-cafe-coffee-shop-music-203916/)|
 | New Orleans Jazz style   | [download style][10]| [play sample](https://publicdomainpool.org/en/track.html?sfpdid=24-000403A#)|
+| Tetris Piano style       | [download style][11]| [play sample](https://pixabay.com/music/classical-piano-tetris-theme-korobeiniki-arranged-for-piano-186249/)|
+| Tetris Strings style     | [download style][12]| [play sample](https://pixabay.com/music/classical-string-quartet-tetris-theme-korobeiniki-rearranged-arr-for-strings-185592/)|
 
 ## Cover Art Gallery
-![Player Piano style cover](/player_piano_style/images/cover.png)
-![Paris Accordion style cover](/paris_accordion_style/images/cover.png)
-![Paris Waltz style cover](/paris_waltz_style/images/cover.png)
-![Paris Jazz style cover](/paris_jazz_style/images/cover.png)
-![Haunted Organ style cover](/haunted_organ_style/images/cover.png)
-![Rag Piano style cover](/rag_piano_style/images/cover.png)
-![Rag Strings style cover](/rag_strings_style/images/cover.png)
-![Rag Intermezzo style cover](/rag_intermezzo_style/images/cover.png)
-![Bossa Nova style cover](/bossa_nova_style/images/cover.png)
-![New Orleans Jazz style cover](/new_orleans_jazz_style/images/cover.png)
+![Player Piano style cover](/music_styles/player_piano_style/images/cover.png)
+![Paris Accordion style cover](/music_styles/paris_accordion_style/images/cover.png)
+![Paris Waltz style cover](/music_styles/paris_waltz_style/images/cover.png)
+![Paris Jazz style cover](/music_styles/paris_jazz_style/images/cover.png)
+![Haunted Organ style cover](/music_styles/haunted_organ_style/images/cover.png)
+![Rag Piano style cover](/music_styles/rag_piano_style/images/cover.png)
+![Rag Strings style cover](/music_styles/rag_strings_style/images/cover.png)
+![Rag Intermezzo style cover](/music_styles/rag_intermezzo_style/images/cover.png)
+![Bossa Nova style cover](/music_styles/bossa_nova_style/images/cover.png)
+![New Orleans Jazz style cover](/music_styles/new_orleans_jazz_style/images/cover.png)
+![Tetris Piano style cover](/music_styles/tetris_piano_style/images/cover.png)
+![Tetris Strings style cover](/music_styles/tetris_strings_style/images/cover.png)
 
-[1]:https://github.com/ProjectionistFM/RCT_Music/raw/main/player_piano_style/projectionist.music.playerpiano.parkobj
-[2]:https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_accordion_style/projectionist.music.parisaccordion.parkobj
-[3]:https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_waltz_style/projectionist.music.pariswaltz.parkobj
-[4]:https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_jazz_style/projectionist.music.parisjazz.parkobj
-[5]:https://github.com/ProjectionistFM/RCT_Music/raw/main/haunted_organ_style/projectionist.music.hauntedorgan.parkobj
-[6]:https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_piano_style/projectionist.music.ragpiano.parkobj
-[7]:https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_strings_style/projectionist.music.ragstring.parkobj
-[8]:https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj
-[9]:https://github.com/ProjectionistFM/RCT_Music/raw/main/bossa_nova_style/projectionist.music.bossanova.parkobj
-[10]:https://github.com/ProjectionistFM/RCT_Music/raw/main/new_orleans_jazz_style/projectionist.music.neworleans.parkobj
+[1]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/player_piano_style/projectionist.music.playerpiano.parkobj
+[2]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/paris_accordion_style/projectionist.music.parisaccordion.parkobj
+[3]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/paris_waltz_style/projectionist.music.pariswaltz.parkobj
+[4]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/paris_jazz_style/projectionist.music.parisjazz.parkobj
+[5]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/haunted_organ_style/projectionist.music.hauntedorgan.parkobj
+[6]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/rag_piano_style/projectionist.music.ragpiano.parkobj
+[7]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/rag_strings_style/projectionist.music.ragstring.parkobj
+[8]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj
+[9]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/bossa_nova_style/projectionist.music.bossanova.parkobj
+[10]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/new_orleans_jazz_style/projectionist.music.neworleans.parkobj
+[11]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/tetris_piano_style/projectionist.music.tetrispiano.parkobj
+[12]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/tetris_strings_style/projectionist.music.tetrisstrings.parkobj
 
 
 ## Installation
