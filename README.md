@@ -27,16 +27,16 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 ![Bossa Nova style cover](/bossa_nova_style/images/cover.png)
 ![New Orleans Jazz style cover](/new_orleans_jazz_style/images/cover.png)
 
-[1]:/player_piano_style/projectionist.music.playerpiano.parkobj
-[2]:/paris_accordion_style/projectionist.music.parisaccordion.parkobj
-[3]:/paris_waltz_style/projectionist.music.pariswaltz.parkobj
-[4]:/paris_jazz_style/projectionist.music.parisjazz.parkobj
-[5]:/haunted_organ_style/projectionist.music.hauntedorgan.parkobj
-[6]:/rag_piano_style/projectionist.music.ragpiano.parkobj
-[7]:/rag_strings_style/projectionist.music.ragstring.parkobj
-[8]:/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj
-[9]:/bossa_nova_style/projectionist.music.bossanova.parkobj
-[10]:/new_orleans_jazz_style/projectionist.music.neworleans.parkobj
+[1]:https://github.com/ProjectionistFM/RCT_Music/raw/main/player_piano_style/projectionist.music.playerpiano.parkobj
+[2]:https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_accordion_style/projectionist.music.parisaccordion.parkobj
+[3]:https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_waltz_style/projectionist.music.pariswaltz.parkobj
+[4]:https://github.com/ProjectionistFM/RCT_Music/raw/main/paris_jazz_style/projectionist.music.parisjazz.parkobj
+[5]:https://github.com/ProjectionistFM/RCT_Music/raw/main/haunted_organ_style/projectionist.music.hauntedorgan.parkobj
+[6]:https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_piano_style/projectionist.music.ragpiano.parkobj
+[7]:https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_strings_style/projectionist.music.ragstring.parkobj
+[8]:https://github.com/ProjectionistFM/RCT_Music/raw/main/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj
+[9]:https://github.com/ProjectionistFM/RCT_Music/raw/main/bossa_nova_style/projectionist.music.bossanova.parkobj
+[10]:https://github.com/ProjectionistFM/RCT_Music/raw/main/new_orleans_jazz_style/projectionist.music.neworleans.parkobj
 
 
 ## Installation
