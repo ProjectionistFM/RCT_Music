@@ -25,7 +25,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 ![Rag Strings style cover](/rag_strings_style/images/cover.png)
 ![Rag Intermezzo style cover](/rag_intermezzo_style/images/cover.png)
 ![Bossa Nova style cover](/bossa_nova_style/images/cover.png)
-![New Orleans Jazz style cover](/new_orleans_style/images/cover.png)
+![New Orleans Jazz style cover](/new_orleans_jazz_style/images/cover.png)
 
 [1]:/player_piano_style/projectionist.music.playerpiano.parkobj
 [2]:/paris_accordion_style/projectionist.music.parisaccordion.parkobj
