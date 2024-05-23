@@ -6,6 +6,7 @@
 # RCT Music media files
 *.mp3
 *.ogg
+*.flac
 *.DS_Store
 *.code-workspace
 

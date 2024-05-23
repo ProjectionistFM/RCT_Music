@@ -13,6 +13,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 | Rag Strings style        | [download style][7] | [play sample](https://pixabay.com/music/classical-string-quartet-sunflower-tickle-percy-wenrich-1908-arranged-for-strings-188145/)|
 | Rag Intermezzo style     | [download style][8] | [play sample](https://pixabay.com/music/classical-string-quartet-lily-of-the-prairie-kerry-mills-1909-arranged-for-strings-188147/)|
 | Bossa Nova style         | [download style][9] | [play sample](https://pixabay.com/music/smooth-jazz-piano-jazz-bossa-nova-cozy-cafe-coffee-shop-music-203916/)|
+| New Orleans Jazz style   | [download style][10]| [play sample](https://publicdomainpool.org/en/track.html?sfpdid=24-000403A#)|
 
 ## Cover Art Gallery
 ![Player Piano style cover](/player_piano_style/images/cover.png)
@@ -24,6 +25,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 ![Rag Strings style cover](/rag_strings_style/images/cover.png)
 ![Rag Intermezzo style cover](/rag_intermezzo_style/images/cover.png)
 ![Bossa Nova style cover](/bossa_nova_style/images/cover.png)
+![New Orleans Jazz style cover](/new_orleans_style/images/cover.png)
 
 [1]:/player_piano_style/projectionist.music.playerpiano.parkobj
 [2]:/paris_accordion_style/projectionist.music.parisaccordion.parkobj
@@ -34,6 +36,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 [7]:/rag_strings_style/projectionist.music.ragstring.parkobj
 [8]:/rag_intermezzo_style/projectionist.music.ragintermezzo.parkobj
 [9]:/bossa_nova_style/projectionist.music.bossanova.parkobj
+[10]:/new_orleans_jazz_style/projectionist.music.neworleans.parkobj
 
 
 ## Installation
@@ -43,8 +46,9 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 4. Place a check next to the music packs you want to be available for your rides.
 
 ## Attribution
-Individual music files will not be included in this repository. Music is used in accordance with the license of the respective composer's chosen distribution platform. Licensing details:
+Individual music files will not be included in this repository. Music is used in accordance with the license of the respective composer's chosen distribution platform, or is in the public domain. Licensing details:
 - [pixabay](https://pixabay.com/service/license-summary/)
 - [musopen](https://musopen.org/music/)
+- [Swiss Foundation Public Domain](https://publicdomainpool.org/en/about.html)
 
 A track list accompanies each style should you like to support the musicians directly.
