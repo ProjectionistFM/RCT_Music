@@ -16,6 +16,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 | New Orleans Jazz style   | [download style][10]| [play sample](https://publicdomainpool.org/en/track.html?sfpdid=24-000403A#)|
 | Tetris Piano style       | [download style][11]| [play sample](https://pixabay.com/music/classical-piano-tetris-theme-korobeiniki-arranged-for-piano-186249/)|
 | Tetris Strings style     | [download style][12]| [play sample](https://pixabay.com/music/classical-string-quartet-tetris-theme-korobeiniki-rearranged-arr-for-strings-185592/)|
+| Foxtrot style            | [download style][13]| [play sample](https://publicdomainpool.org/en/track.html?sfpdid=24-000294A#)|
 
 ## Cover Art Gallery
 ![Player Piano style cover](/music_styles/player_piano_style/images/cover.png)
@@ -30,6 +31,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 ![New Orleans Jazz style cover](/music_styles/new_orleans_jazz_style/images/cover.png)
 ![Tetris Piano style cover](/music_styles/tetris_piano_style/images/cover.png)
 ![Tetris Strings style cover](/music_styles/tetris_strings_style/images/cover.png)
+![Foxtrot style](/music_styles/foxtrot_style/images/cover.png)
 
 [1]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/player_piano_style/projectionist.music.playerpiano.parkobj
 [2]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/paris_accordion_style/projectionist.music.parisaccordion.parkobj
@@ -43,6 +45,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 [10]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/new_orleans_jazz_style/projectionist.music.neworleans.parkobj
 [11]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/tetris_piano_style/projectionist.music.tetrispiano.parkobj
 [12]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/tetris_strings_style/projectionist.music.tetrisstrings.parkobj
+[13]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/foxtrot_style/projectionist.music.foxtrot.parkobj
 
 
 ## Installation
@@ -50,6 +53,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 2. Restart OpenRCT2
 3. In game, click Cheats menu > Object Selection > Advanced button > Music Tab.
 4. Place a check next to the music packs you want to be available for your rides.
+If you aren't seeing the new music listed, make sure that "custom" is selected in the Filter button
 
 ## Attribution
 Individual music files will not be included in this repository. Music is used in accordance with the license of the respective composer's chosen distribution platform, or is in the public domain. Licensing details:
