@@ -17,6 +17,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 | Tetris Piano style       | [download style][11]| [play sample](https://pixabay.com/music/classical-piano-tetris-theme-korobeiniki-arranged-for-piano-186249/)|
 | Tetris Strings style     | [download style][12]| [play sample](https://pixabay.com/music/classical-string-quartet-tetris-theme-korobeiniki-rearranged-arr-for-strings-185592/)|
 | Foxtrot style            | [download style][13]| [play sample](https://publicdomainpool.org/en/track.html?sfpdid=24-000294A#)|
+| Harpsichord style        | [download style][14]| [play sample](https://musopen.org/music/3527-organ-concerto-in-a-minor-bwv-593/)|
 
 ## Cover Art Gallery
 ![Player Piano style cover](/music_styles/player_piano_style/images/cover.png)
@@ -32,6 +33,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 ![Tetris Piano style cover](/music_styles/tetris_piano_style/images/cover.png)
 ![Tetris Strings style cover](/music_styles/tetris_strings_style/images/cover.png)
 ![Foxtrot style](/music_styles/foxtrot_style/images/cover.png)
+![Harpsichord style](/music_styles/harpsichord_style/images/cover.png)
 
 [1]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/player_piano_style/projectionist.music.playerpiano.parkobj
 [2]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/paris_accordion_style/projectionist.music.parisaccordion.parkobj
@@ -46,6 +48,7 @@ Custom music pack add-ons for use with OpenRCT2. Each pack contains multiple mus
 [11]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/tetris_piano_style/projectionist.music.tetrispiano.parkobj
 [12]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/tetris_strings_style/projectionist.music.tetrisstrings.parkobj
 [13]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/foxtrot_style/projectionist.music.foxtrot.parkobj
+[14]:https://github.com/ProjectionistFM/RCT_Music/raw/main/music_styles/harpsichord_style/projectionist.music.harpsichord.parkobj
 
 
 ## Installation
