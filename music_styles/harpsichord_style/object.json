@@ -9,18 +9,18 @@
         "tracks": [
             {
                 "source": "music/Organ_Concerto_BWV_593.ogg",
-                "name": "Organ Concerto in A minor, BWV 593",
-                "composer": "Johann Sebastian Bach performed by Martin Neary (CC)(PD)"
+                "name": "Bach Organ Concerto in A minor, BWV 593",
+                "composer": "Johann Sebastian Bach performed by Martin Neary (CC) (PD)"
             },
             {
-                "source": "music/Fugue_BWV_575.ogg",
-                "name": "Fugue in C minor, BWV 575",
-                "composer": "Johann Sebastian Bach performed by Isolde Ahlgrimm (CC)(PD)"
+                "source": "music/Concerto_G_Major_BWV_592.ogg",
+                "name": "Bach Concerto in G Major, BWV 592",
+                "composer": "Johann Sebastian Bach performed by Martin Neary (CC) (PD)"
             },
             {
-                "source": "music/file.ogg",
-                "name": "Concerto in G Major, BWV 592",
-                "composer": "Johann Sebastian Bach performed by Martin Neary (CC)(PD)"
+                "source": "music/Suite_C_minor_for_two_harpsichords.ogg",
+                "name": "Händel Suite in c-minor for two harpsichords",
+                "composer": "Georg Friedrich Händel performed by Northern Chamber Orchestra and Choir (CC) (PD)"
             }
         ]
     },
